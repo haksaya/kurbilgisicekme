@@ -1,0 +1,9 @@
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\bin\KurCekme.dll.config
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\bin\KurCekme.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\bin\KurCekme.pdb
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\obj\Debug\KurCekme.csprojResolveAssemblyReference.cache
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\obj\Debug\KurCekme.csproj.CoreCompileInputs.cache
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\obj\Debug\KurCekme.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\KurCekme\KurCekme\obj\Debug\KurCekme.pdb
